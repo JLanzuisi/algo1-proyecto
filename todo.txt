@@ -1,0 +1,4 @@
+Instalar jupyter para ejecutar el notebook en local
+hacer repo para el proyecto, con una descripción que ayude
+buscar la info empezando con lo que nos made la profe
+colocar todo bajo la GPL
