@@ -1,6 +1,6 @@
 # Proyecto
 Este proyecto utiliza python y los cuadernos de jupyter
-como la principal forma de programar y documentar el código.
+como la principal forma de escribir y documentar el código.
 
 Es por esto que tanto python como jupyter son dependencias necesarias
 para poder ejecutar y ver el código de este repositorio.
@@ -13,15 +13,16 @@ instalarlas es a prueba de tontos:
    `apt search python && apt install python`; y
 2. buscar el notebook de jupyter de la misma forma que antes.
 
-
 Una descripción del proyecto puede hallarse en los archivos
 de jupyter notebook.
 Una vez se tenga la versión final, esta página describirá un poco mejor
 en que consiste todo.
+
+# Librerias de python
 
 # Licencia
 Todos los archivos de este repositorio están bajo la GPL de GNU.
 Esto asegura que el software puede ser modificado como se quiera
 y distribuido de cualquier forma siempre que no se vulneren las 
 libertades fundamentales de los usuarios al hacerlo (veánse las 4 libertades en el 
-[sitio de GNU](https://www.gnu.org/philosophy/free-sw.en.html).
+[sitio de GNU](https://www.gnu.org/philosophy/free-sw.en.html)).
