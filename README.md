@@ -1,6 +1,7 @@
 # Proyecto
-Este proyecto utiliza python y los cuadernos de jupyter
-como la principal forma de escribir y documentar el código.
+Este proyecto utiliza python como lenguaje
+y los cuadernos de jupyter
+como la principal forma de documentar el código.
 
 Es por esto que tanto python como jupyter son dependencias necesarias
 para poder ejecutar y ver el código de este repositorio.
@@ -17,6 +18,12 @@ Una descripción del proyecto puede hallarse en los archivos
 de jupyter notebook.
 Una vez se tenga la versión final, esta página describirá un poco mejor
 en que consiste todo.
+
+# Código en python
+Los archivos `.py` se escriben y luego se inlcuyen
+en los cuadernos.
+De esta forma se pueden revisar las funciones involucradas por
+separado y a la vez tener un solo archivo donde este todo.
 
 # Librerias de python
 
